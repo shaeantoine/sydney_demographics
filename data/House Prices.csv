@@ -1,0 +1,422 @@
+Name,Region,Postcode,Median House Price (2021),Traffic,Public Transport
+Hornsby,Upper North Shore,2077,140000000,4,6
+Oatley,Southern Suburbs,2223,180000000,6,6
+Dulwich Hill,Inner West,2203,190000000,5,8
+Jannali,Sutherland Shire,2226,130000000,6,6
+Waverton,Lower North Shore,2060,340000000,7,7
+Concord,Inner West,2137,220000000,6,5
+Holsworthy,Western Suburbs,2173,95000000,6,6
+Summer Hill,Inner West,2130,210000000,6,7
+Artarmon,North Shore,2064,295000000,6,7
+Croydon,Inner West,2132,180000000,4,6
+Engadine,Sutherland Shire,2233,110000000,4,6
+Padstow,Western Suburbs,2211,115000000,5,7
+Panania,Western Suburbs,2213,110000000,6,7
+Putney,North Shore,2112,255000000,4,4
+Como,Sutherland Shire,2226,150000000,7,6
+Cronulla,Sutherland Shire,2230,230000000,3,6
+Gymea,Sutherland Shire,2227,135000000,5,6
+Kirrawee,Sutherland Shire,2232,135000000,4,6
+Lugarno,Southern Suburbs,2210,150000000,5,3
+Penshurst,Southern Suburbs,2222,135000000,6,7
+Rouse Hill,Hills Shire,2155,115000000,3,4
+Wahroonga,Upper North Shore,2076,230000000,5,6
+Beecroft,Hills Shire,2119,210000000,4,6
+Carlton,Southern Suburbs,2218,140000000,5,6
+Killara,Northern Suburbs,2071,295000000,7,6
+Lindfield,North Shore,2070,315000000,6,6
+Wollstonecraft,Lower North Shore,2065,290000000,6,7
+Drummoyne,Inner West,2047,235000000,2,6
+Epping,Northern Suburbs,2121,190000000,3,8
+Gladesville,North Shore,2111,230000000,4,5
+Haberfield,Inner West,2045,235000000,3,7
+Kirribilli,Lower North Shore,2061,340000000,5,8
+Menai,Sutherland Shire,2234,120000000,5,3
+Turramurra,North Shore,2074,240000000,5,6
+Manly,Northern Beaches,2095,320000000,3,4
+Botany,Southern Suburbs,2019,170000000,3,4
+Caringbah,Sutherland Shire,2229,150000000,6,6
+Denistone,North Shore,2114,200000000,6,6
+Double Bay,Eastern Suburbs,2028,420000000,4,7
+Eastwood,North Shore,2122,195000000,2,6
+Kogarah,Southern Suburbs,2217,140000000,4,7
+Lane Cove,Lower North Shore,2066,260000000,3,4
+Miranda,Sutherland Shire,2228,140000000,3,7
+Roseville,North Shore,2069,290000000,5,6
+Sans Souci,Southern Suburbs,2219,170000000,4,2
+Woolooware,Sutherland Shire,2230,200000000,4,6
+Milperra,Western Suburbs,2214,97500000,4,3
+Annandale,Inner West,2038,190000000,5,3
+Carlingford,Western Suburbs,2118,160000000,4,3
+Kingsgrove,Southern Suburbs,2208,150000000,3,7
+Lidcombe,Western Suburbs,2141,125000000,2,8
+Lilyfield,Inner West,2040,200000000,3,5
+Randwick,Eastern Suburbs,2031,295000000,3,6
+Rozelle,Inner West,2039,200000000,3,5
+Waitara,Upper North Shore,2077,180000000,4,6
+Balmain,Inner West,2041,220000000,4,4
+Bangor,Sutherland Shire,2234,125000000,6,2
+Bexley,Southern Suburbs,2207,140000000,4,5
+Blakehurst,Southern Suburbs,2221,180000000,4,4
+Canterbury,Western Suburbs,2193,150000000,4,6
+Castle Hill,Hills Shire,2154,175000000,2,6
+Kensington,Eastern Suburbs,2033,300000000,5,7
+Mortdale,Southern Suburbs,2223,130000000,4,7
+Revesby,Western Suburbs,2212,110000000,3,8
+Ryde,Northern Suburbs,2112,175000000,3,6
+Sutherland,Sutherland Shire,2232,120000000,4,7
+Hurstville,Southern Suburbs,2220,160000000,3,7
+Riverwood,Western Suburbs,2210,110000000,3,6
+Rushcutters Bay,Eastern Suburbs,2011,300000000,4,5
+Allawah,Southern Suburbs,2218,135000000,5,5
+Edgecliff,Eastern Suburbs,2027,240000000,4,9
+Five Dock,Inner West,2046,200000000,4,4
+Leichhardt,Inner West,2040,180000000,3,6
+Lewisham,Inner West,2049,170000000,4,8
+Meadowbank,North Shore,2114,165000000,5,8
+Erskineville,Inner South,2043,165000000,3,7
+Homebush,Inner West,2140,200000000,2,6
+Marrickville,Inner West,2204,170000000,4,7
+Neutral Bay,Lower North Shore,2089,285000000,1,5
+Rosebery,Inner South,2018,185000000,3,5
+Wentworthville,Western Suburbs,2145,115000000,4,6
+Earlwood,Inner West,2206,170000000,5,3
+Peakhurst,Southern Suburbs,2210,125000000,4,3
+Surry Hills,Inner East,2010,200000000,4,7
+Wolli Creek,Southern Suburbs,2205,0,5,8
+North Sydney,Lower North Shore,2060,270000000,4,9
+Paddington,Inner East,2021,300000000,4,3
+Pyrmont,Sydney City,2009,200000000,3,6
+Rockdale,Southern Suburbs,2216,135000000,2,7
+Chatswood,North Shore,2067,255000000,3,6
+Crows Nest,Lower North Shore,2065,240000000,4,5
+Macquarie Park,North Shore,2113,0,3,7
+Petersham,Inner West,2049,180000000,3,7
+Rhodes,Inner West,2138,0,3,7
+Ashfield,Inner West,2131,175000000,3,7
+McMahons Point,Lower North Shore,2060,0,4,9
+Mosman,North Shore,2088,420000000,2,2
+Newtown,Inner West,2042,175000000,3,7
+Strathfield,Inner West,2135,280000000,5,9
+Camperdown,Inner West,2050,180000000,3,5
+Campsie,Western Suburbs,2194,140000000,2,7
+Chippendale,Sydney City,2008,160000000,4,5
+Kingsford,Eastern Suburbs,2032,250000000,4,7
+St Peters,Inner West,2044,155000000,4,7
+Stanmore,Inner West,2048,190000000,5,7
+Burwood,Inner West,2134,215000000,3,7
+Roselands,Western Suburbs,2196,115000000,3,4
+Glebe,Inner West,2037,185000000,3,6
+Redfern,Inner East,2016,180000000,3,9
+St Leonards,Lower North Shore,2065,270000000,4,7
+Zetland,Inner East,2017,175000000,2,7
+Darlinghurst,Sydney City,2010,220000000,3,7
+Mascot,Southern Suburbs,2020,160000000,2,7
+Bankstown,Western Suburbs,2200,105000000,3,7
+Ultimo,Sydney City,2007,170000000,3,6
+Waterloo,Inner South,2017,145000000,2,5
+Alexandria,Inner South,2015,185000000,1,6
+Arncliffe,Southern Suburbs,2205,135000000,4,6
+Blacktown,Western Suburbs,2148,80000000,0,0
+Auburn,Western Suburbs,2144,95000000,0,0
+Baulkham Hills,Hills Shire,2153,140000000,0,0
+Maroubra,Eastern Suburbs,2035,230000000,0,0
+Merrylands,Western Suburbs,2160,93000000,0,0
+Kellyville,Hills Shire,2155,145000000,0,0
+Liverpool,Western Suburbs,2170,81000000,0,0
+Quakers Hill,Western Suburbs,2763,91000000,0,0
+Parramatta,Western Suburbs,2150,130000000,0,0
+Greenacre,Western Suburbs,2190,110000000,0,0
+Greystanes,Western Suburbs,2145,95000000,0,0
+Guildford,Western Suburbs,2161,90000000,0,0
+Bondi,Eastern Suburbs,2026,300000000,0,0
+Cabramatta,Western Suburbs,2166,100000000,0,0
+Dee Why,Northern Beaches,2099,250000000,0,0
+Punchbowl,Western Suburbs,2196,97000000,0,0
+St Clair,Western Suburbs,2759,77500000,0,0
+Seven Hills,Hills Shire,2147,90000000,0,0
+Cherrybrook,Hills Shire,2126,180000000,0,0
+Fairfield,Western Suburbs,2165,87500000,0,0
+Yagoona,Western Suburbs,2199,95000000,0,0
+St Ives,Upper North Shore,2075,230000000,0,0
+Lakemba,Western Suburbs,2195,100000000,0,0
+Mount Druitt,Western Suburbs,2770,77500000,0,0
+Westmead,Western Suburbs,2145,150000000,0,0
+Glenwood,Hills Shire,2768,120000000,0,0
+Cranebrook,Western Suburbs,2749,75000000,0,0
+Casula,Western Suburbs,2170,90000000,0,0
+Coogee,Eastern Suburbs,2034,320000000,0,0
+Granville,Western Suburbs,2142,87500000,0,0
+Prestons,Western Suburbs,2170,85000000,0,0
+Ingleburn,South West,2565,75000000,0,0
+Rooty Hill,Western Suburbs,2766,75000000,0,0
+Toongabbie,Western Suburbs,2146,100000000,0,0
+Macquarie Fields,South West,2564,70000000,0,0
+Doonside,Western Suburbs,2767,73000000,0,0
+Frenchs Forest,Northern Beaches,2086,185000000,0,0
+Marsfield,North Shore,2122,195000000,0,0
+Penrith,Western Suburbs,2750,75000000,0,0
+West Ryde,North Shore,2114,175000000,0,0
+Belmore,Western Suburbs,2192,130000000,0,0
+Campbelltown,Western Suburbs,2560,65000000,0,0
+Chester Hill,Western Suburbs,2162,90000000,0,0
+Minto,South West,2566,72000000,0,0
+Smithfield,Western Suburbs,2164,84000000,0,0
+St Marys,Western Suburbs,2760,72000000,0,0
+"Ponds, The",Hills Shire,2769,120000000,0,0
+Condell Park,Western Suburbs,2200,105000000,0,0
+Mount Annan,South West,2567,82500000,0,0
+Winston Hills,Western Suburbs,2153,125000000,0,0
+Cremorne,Lower North Shore,2090,320000000,0,0
+Hinchinbrook,Western Suburbs,2168,84000000,0,0
+Northmead,Western Suburbs,2152,120000000,0,0
+Pymble,Upper North Shore,2073,280000000,0,0
+Bellevue Hill,Eastern Suburbs,2023,600000000,0,0
+Ermington,North Shore,2115,140000000,0,0
+Harrington Park,South West,2567,110000000,0,0
+Mona Vale,Northern Beaches,2103,240000000,0,0
+Sylvania,Sutherland Shire,2224,160000000,0,0
+Canley Vale,Western Suburbs,2166,95000000,0,0
+Rose Bay,Eastern Suburbs,2029,420000000,0,0
+Beverly Hills,Southern Suburbs,2209,135000000,0,0
+Wiley Park,Western Suburbs,2195,93000000,0,0
+Avalon Beach,Northern Beaches,2107,225000000,0,0
+Glenfield,Western Suburbs,2167,80000000,0,0
+Leumeah,South West,2560,68000000,0,0
+Matraville,Southern Suburbs,2036,185000000,0,0
+Moorebank,Western Suburbs,2170,105000000,0,0
+Mount Pritchard,Western Suburbs,2170,75000000,0,0
+Potts Point,Inner East,2011,420000000,0,0
+Vaucluse,Eastern Suburbs,2030,630000000,0,0
+Hunters Hill,Lower North Shore,2110,350000000,0,0
+Kings Langley,Western Suburbs,2147,115000000,0,0
+Kingswood,Western Suburbs,2747,74000000,0,0
+Lurnea,Western Suburbs,2170,80000000,0,0
+Newport,Northern Beaches,2106,210000000,0,0
+Bass Hill,Western Suburbs,2197,90000000,0,0
+Plumpton,Western Suburbs,2761,73000000,0,0
+Stanhope Gardens,Western Suburbs,2768,110000000,0,0
+Belrose,Northern Beaches,2085,180000000,0,0
+Berala,Western Suburbs,2141,105000000,0,0
+Eastlakes,Southern Suburbs,2018,165000000,0,0
+Bradbury,South West,2560,65000000,0,0
+Freshwater,Northern Beaches,2096,310000000,0,0
+Wattle Grove,Western Suburbs,2173,89000000,0,0
+Brighton-le-Sands,Southern Suburbs,2216,160000000,0,0
+Colyton,Western Suburbs,2760,0,0,0
+Emu Plains,Western Suburbs,2750,81000000,0,0
+Forestville,Northern Beaches,2087,200000000,0,0
+Thornleigh,Upper North Shore,2120,150000000,0,0
+Narrabeen,Northern Beaches,2101,265000000,0,0
+Balgowlah,Northern Beaches,2093,260000000,0,0
+Bella Vista,Hills Shire,2153,200000000,0,0
+Collaroy,Northern Beaches,2097,300000000,0,0
+Gordon,Upper North Shore,2072,280000000,0,0
+North Rocks,Hills Shire,2151,150000000,0,0
+Rosemeadow,South West,2560,69000000,0,0
+Cromer,Northern Beaches,2099,200000000,0,0
+Dural,Hills Shire,2158,200000000,0,0
+Lalor Park,Western Suburbs,2147,76000000,0,0
+Marayong,Western Suburbs,2148,77500000,0,0
+Warriewood,Northern Beaches,2102,185000000,0,0
+Ambarvale,South West,2560,65000000,0,0
+Haymarket,Sydney City,2000,0,0,0
+Pendle Hill,Western Suburbs,2145,98000000,0,0
+Pennant Hills,Hills Shire,2120,180000000,0,0
+Woollahra,Eastern Suburbs,2025,390000000,0,0
+Illawong,Sutherland Shire,2234,150000000,0,0
+Mount Colah,Northern Suburbs,2079,125000000,0,0
+Riverstone,Hills Shire,2765,81000000,0,0
+Seaforth,Northern Beaches,2092,280000000,0,0
+Allambie Heights,Northern Beaches,2100,180000000,0,0
+Bronte,Eastern Suburbs,2024,470000000,0,0
+Cammeray,Lower North Shore,2062,250000000,0,0
+Oakhurst,Western Suburbs,2761,74500000,0,0
+Wentworth Point,Inner West,2127,0,0,0
+Narraweena,Northern Beaches,2099,180000000,0,0
+Rydalmere,Western Suburbs,2116,135000000,0,0
+St Helens Park,South West,2560,65000000,0,0
+Willoughby,Lower North Shore,2068,290000000,0,0
+Erskine Park,Western Suburbs,2759,85000000,0,0
+Glenhaven,Hills Shire,2156,190000000,0,0
+Northbridge,Lower North Shore,2063,350000000,0,0
+Woodcroft,Western Suburbs,2767,81000000,0,0
+Manly Vale,Northern Beaches,2093,260000000,0,0
+Picnic Point,Western Suburbs,2213,120000000,0,0
+Ropes Crossing,Western Suburbs,2760,75000000,0,0
+St Johns Park,Western Suburbs,2176,91000000,0,0
+Wetherill Park,Western Suburbs,2164,98000000,0,0
+Villawood,Western Suburbs,2163,76500000,0,0
+Elderslie,South West,2570,77000000,0,0
+Fairlight,Northern Beaches,2094,310000000,0,0
+Harris Park,Western Suburbs,2150,120000000,0,0
+Heathcote,Sutherland Shire,2233,115000000,0,0
+Naremburn,Lower North Shore,2065,260000000,0,0
+Newington,Western Suburbs,2127,140000000,0,0
+Raby,South West,2566,70000000,0,0
+Sefton,Western Suburbs,2162,93000000,0,0
+Warwick Farm,Western Suburbs,2170,81000000,0,0
+Whalan,Western Suburbs,2770,59000000,0,0
+Girraween,Western Suburbs,2145,97500000,0,0
+Greenwich,Lower North Shore,2065,320000000,0,0
+Hebersham,Western Suburbs,2770,64000000,0,0
+Minchinbury,Western Suburbs,2770,82000000,0,0
+Narwee,Southern Suburbs,2209,120000000,0,0
+Oatlands,Western Suburbs,2117,180000000,0,0
+Ruse,South West,2560,70000000,0,0
+St Andrews,South West,2566,71000000,0,0
+Telopea,Western Suburbs,2117,142000000,0,0
+Oyster Bay,Sutherland Shire,2225,155000000,0,0
+Abbotsford,Inner West,2046,255000000,0,0
+Berowra,Northern Suburbs,2081,120000000,0,0
+Elizabeth Bay,Eastern Suburbs,2011,340000000,0,0
+Hillsdale,Southern Suburbs,2036,160000000,0,0
+Jamisontown,Western Suburbs,2750,76000000,0,0
+Malabar,Southern Suburbs,2036,235000000,0,0
+Normanhurst,Upper North Shore,2076,170000000,0,0
+Richmond,Northern Suburbs,2753,75000000,0,0
+Middleton Grange,Western Suburbs,2171,89000000,0,0
+Russell Lea,Inner West,2560,240000000,0,0
+Schofields,Western Suburbs,2762,90000000,0,0
+Kenthurst,Hills Shire,2156,270000000,0,0
+Pemulwuy,Western Suburbs,2145,105000000,0,0
+Marsden Park,Western Suburbs,2765,90000000,0,0
+Oran Park,South West,2570,82000000,0,0
+Regents Park,Western Suburbs,2143,95000000,0,0
+Lethbridge Park,Western Suburbs,2770,58000000,0,0
+Wakeley,Western Suburbs,2176,83000000,0,0
+Clovelly,Eastern Suburbs,2031,360000000,0,0
+Dundas,North Shore,2117,133000000,0,0
+Forest Lodge,Inner West,2037,195000000,0,0
+Hurlstone Park,Inner West,2193,180000000,0,0
+Monterey,Southern Suburbs,2217,185000000,0,0
+Prospect,Western Suburbs,2148,85000000,0,0
+Barden Ridge,Sutherland Shire,2234,135000000,0,0
+Bidwill,Western Suburbs,2770,57500000,0,0
+Darling Point,Eastern Suburbs,2027,0,0,0
+Hoxton Park,Western Suburbs,2171,80000000,0,0
+Killarney Heights,Northern Beaches,2087,220000000,0,0
+Little Bay,Southern Suburbs,2036,220000000,0,0
+Spring Farm,South West,2570,78000000,0,0
+Waverley,Eastern Suburbs,2024,310000000,0,0
+Westleigh,Northern Suburbs,2120,160000000,0,0
+Busby,South West,2168,70000000,0,0
+Abbotsbury,Western Suburbs,2176,110000000,0,0
+Breakfast Point,Inner West,2137,240000000,0,0
+Loftus,Sutherland Shire,2232,130000000,0,0
+Silverwater,Western Suburbs,2128,125000000,0,0
+Woolloomooloo,Sydney City,2011,230000000,0,0
+Werrington,Western Suburbs,2747,72500000,0,0
+Constitution Hill,Western Suburbs,2145,100000000,0,0
+Enmore,Inner West,2042,175000000,0,0
+Londonderry,Western Suburbs,2753,145000000,0,0
+Pagewood,Southern Suburbs,2035,200000000,0,0
+Rosehill,Western Suburbs,2142,95000000,0,0
+Tempe,Inner West,2044,140000000,0,0
+Tregear,Western Suburbs,2770,57000000,0,0
+Leppington,South West,2179,85000000,0,0
+Narellan,South West,2567,74000000,0,0
+Ashcroft,Western Suburbs,2168,70000000,0,0
+Ashbury,Inner West,2193,175000000,0,0
+Asquith,Northern Suburbs,2077,140000000,0,0
+Banksia,Southern Suburbs,2216,125000000,0,0
+Birchgrove,Inner West,2041,280000000,0,0
+Blackett,Western Suburbs,2770,55000000,0,0
+Chifley,Southern Suburbs,2036,200000000,0,0
+Hammondville,Western Suburbs,2170,90000000,0,0
+Kareela,Sutherland Shire,2232,140000000,0,0
+Kings Park,Western Suburbs,2148,86000000,0,0
+Miller,Western Suburbs,2168,69000000,0,0
+Parklea,Western Suburbs,2768,103000000,0,0
+Queenscliff,Northern Beaches,2096,310000000,0,0
+Riverview,Lower North Shore,2066,280000000,0,0
+Shalvey,Western Suburbs,2770,58000000,0,0
+Camden,South West,2570,80000000,0,0
+Prairiewood,Western Suburbs,2176,91000000,0,0
+Birrong,Western Suburbs,2143,100000000,0,0
+Brookvale,Northern Beaches,2100,0,0,0
+Darlington,Sydney City,2008,170000000,0,0
+East Hills,Western Suburbs,2213,105000000,0,0
+Galston,Northern Suburbs,2159,165000000,0,0
+Kurrajong,Northern Suburbs,2758,120000000,0,0
+Oxley Park,Western Suburbs,2760,75000000,0,0
+Sadleir,Western Suburbs,2168,69000000,0,0
+Yowie Bay,Sutherland Shire,2228,210000000,0,0
+Pitt Town,Northern Suburbs,2756,130000000,0,0
+Terrey Hills,Northern Suburbs,2084,220000000,0,0
+Warrawee,Upper North Shore,2074,320000000,0,0
+Wilberforce,Northern Suburbs,2756,92000000,0,0
+Airds,South West,2560,55000000,0,0
+Chiswick,Inner West,2046,0,0,0
+Davidson,Northern Suburbs,2085,200000000,0,0
+Enfield,Inner West,2136,165000000,0,0
+Queens Park,Eastern Suburbs,2022,330000000,0,0
+Wheeler Heights,Northern Beaches,2097,210000000,0,0
+Dharruk,Western Suburbs,2770,65000000,0,0
+Yarrawarrah,Sutherland Shire,2233,130000000,0,0
+Castle Cove,Lower North Shore,2069,330000000,0,0
+Claymore,South West,2559,0,0,0
+Kearns,South West,2558,74000000,0,0
+Lansvale,Western Suburbs,2166,85000000,0,0
+Woodbine,South West,2560,70000000,0,0
+Appin,South West,2560,80000000,0,0
+Bardwell Park,Southern Suburbs,2207,150000000,0,0
+Bardwell Valley,Southern Suburbs,2207,140000000,0,0
+Bonnet Bay,Sutherland Shire,2226,150000000,0,0
+Cheltenham,North Shore,2119,200000000,0,0
+Curl Curl,Northern Beaches,2096,300000000,0,0
+Kurnell,Sutherland Shire,2231,150000000,0,0
+Rossmore,Western Suburbs,2557,360000000,0,0
+Turrella,Southern Suburbs,2205,145000000,0,0
+Willmot,Western Suburbs,2770,55000000,0,0
+Edmondson Park,South West,2174,90000000,0,0
+Emerton,Western Suburbs,2770,56000000,0,0
+Woronora,Sutherland Shire,2232,135000000,0,0
+Cobbitty,South West,2570,82000000,0,0
+Milsons Point,Lower North Shore,2061,300000000,0,0
+Longueville,Lower North Shore,2066,450000000,0,0
+Cabarita,Inner West,2137,265000000,0,0
+Colebee,Western Suburbs,2761,105000000,0,0
+Horsley Park,Western Suburbs,2175,280000000,0,0
+Luddenham,Western Suburbs,2745,190000000,0,0
+Mulgoa,Western Suburbs,2745,120000000,0,0
+Oakville,Northern Suburbs,2765,240000000,0,0
+Orchard Hills,Western Suburbs,2748,195000000,0,0
+Windsor,Northern Suburbs,2756,74000000,0,0
+Clontarf,Northern Beaches,2093,0,0,0
+Taren Point,Sutherland Shire,2229,180000000,0,0
+Clemton Park,Southern Suburbs,2206,140000000,0,0
+Llandilo,Western Suburbs,2747,88000000,0,0
+Melrose Park,North Shore,2114,175000000,0,0
+Palm Beach,Northern Beaches,2108,375000000,0,0
+Tamarama,Eastern Suburbs,2026,630000000,0,0
+Dolls Point,Southern Suburbs,2219,0,0,0
+Wallacia,Western Suburbs,2745,85000000,0,0
+Yennora,Western Suburbs,2161,80000000,0,0
+Wareemba,Inner West,2046,210000000,0,0
+Woodpark,Western Suburbs,2164,88000000,0,0
+Annangrove,Hills Shire,2156,0,0,0
+Lilli Pilli,Sutherland Shire,2229,270000000,0,0
+Maraylya,Northern Suburbs,2765,220000000,0,0
+Middle Cove,Lower North Shore,2068,240000000,0,0
+Millers Point,Sydney City,2000,310000000,0,0
+Point Piper,Eastern Suburbs,2027,1500000000,0,0
+Rodd Point,Inner West,2046,240000000,0,0
+Holroyd,Western Suburbs,2142,110000000,0,0
+Sandringham,Southern Suburbs,2219,230000000,0,0
+Castlereagh,Western Suburbs,2749,0,0,0
+Daceyville,Eastern Suburbs,2032,190000000,0,0
+Mount Lewis,Western Suburbs,2190,110000000,0,0
+Mount Vernon,Western Suburbs,2178,220000000,0,0
+Sydenham,Inner West,2044,160000000,0,0
+Ramsgate,Southern Suburbs,2217,145000000,0,0
+Kyle Bay,Southern Suburbs,2221,230000000,0,0
+Mortlake,Inner West,2137,160000000,0,0
+Port Hacking,Sutherland Shire,2229,230000000,0,0
+Beaconsfield,Southern Suburbs,2015,165000000,0,0
+Eastern Creek,Western Suburbs,2766,75000000,0,0
+Kyeemagh,Southern Suburbs,2216,165000000,0,0
+Northwood,Lower North Shore,2066,420000000,0,0
+Watsons Bay,Eastern Suburbs,2030,550000000,0,0
+Lavender Bay,Lower North Shore,2060,420000000,0,0
+Bexley North,Southern Suburbs,2207,140000000,0,0
