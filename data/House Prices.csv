@@ -1,0 +1,137 @@
+sa2_code,sa2_name,Name,Region,Postcode,Median House Price (2021),Traffic,Public Transport
+115011294,glenhaven,glenhaven,Hills Shire,2156,190000000,0,0
+115011558,cherrybrook,cherrybrook,Hills Shire,2126,180000000,0,0
+116021309,glenwood,glenwood,Hills Shire,2768,120000000,0,0
+116021563,quakers hill,quakers hill,Western Suburbs,2763,91000000,0,0
+116021630,riverstone,riverstone,Hills Shire,2765,81000000,0,0
+117011321,botany,botany,Southern Suburbs,2019,170000000,3,4
+117011634,eastlakes,eastlakes,Southern Suburbs,2018,165000000,0,0
+117011635,mascot,mascot,Southern Suburbs,2020,160000000,2,7
+117031329,darlinghurst,darlinghurst,Sydney City,2010,220000000,3,7
+117031336,surry hills,surry hills,Inner East,2010,200000000,4,7
+117031639,chippendale,chippendale,Sydney City,2008,160000000,4,5
+117031641,pyrmont,pyrmont,Sydney City,2009,200000000,3,6
+117031642,redfern,redfern,Inner East,2016,180000000,3,9
+117031646,ultimo,ultimo,Sydney City,2007,170000000,3,6
+117031647,waterloo,waterloo,Inner South,2017,145000000,2,5
+117031648,zetland,zetland,Inner East,2017,175000000,2,7
+118011347,woollahra,woollahra,Eastern Suburbs,2025,390000000,0,0
+118011649,bellevue hill,bellevue hill,Eastern Suburbs,2023,600000000,0,0
+118021565,kingsford,kingsford,Eastern Suburbs,2032,250000000,4,7
+119011356,condell park,condell park,Western Suburbs,2200,105000000,0,0
+119011358,padstow,padstow,Western Suburbs,2211,115000000,5,7
+119011360,revesby,revesby,Western Suburbs,2212,110000000,3,8
+119021366,punchbowl,punchbowl,Western Suburbs,2196,97000000,0,0
+119021367,roselands,roselands,Western Suburbs,2196,115000000,3,4
+119021573,lakemba,lakemba,Western Suburbs,2195,100000000,0,0
+119021574,wiley park,wiley park,Western Suburbs,2195,93000000,0,0
+119021662,earlwood,earlwood,Inner West,2206,170000000,5,3
+119031373,riverwood,riverwood,Western Suburbs,2210,110000000,3,6
+119031667,penshurst,penshurst,Southern Suburbs,2222,135000000,6,7
+119041378,kogarah,kogarah,Southern Suburbs,2217,140000000,4,7
+119041671,wolli creek,wolli creek,Southern Suburbs,2205,0,5,8
+120011673,rhodes,rhodes,Inner West,2138,0,3,7
+120021387,balmain,balmain,Inner West,2041,220000000,4,4
+120021675,leichhardt,leichhardt,Inner West,2040,180000000,3,6
+120031396,homebush,homebush,Inner West,2140,200000000,2,6
+120031679,croydon,croydon,Inner West,2132,180000000,4,6
+121011682,artarmon,artarmon,North Shore,2064,295000000,6,7
+121011686,lane cove,lane cove,Lower North Shore,2066,260000000,3,4
+121011687,willoughby,willoughby,Lower North Shore,2068,290000000,0,0
+121031409,pymble,pymble,Upper North Shore,2073,280000000,0,0
+121031410,st ives,st ives,Upper North Shore,2075,230000000,0,0
+121031411,turramurra,turramurra,North Shore,2074,240000000,5,6
+122031425,cromer,cromer,Northern Beaches,2099,200000000,0,0
+122031692,belrose,belrose,Northern Beaches,2085,180000000,0,0
+123011700,harrington park,harrington park,South West,2567,110000000,0,0
+123011701,mount annan,mount annan,South West,2567,82500000,0,0
+123011702,spring farm,spring farm,South West,2570,78000000,0,0
+123021704,glenfield,glenfield,Western Suburbs,2167,80000000,0,0
+123021705,ingleburn,ingleburn,South West,2565,75000000,0,0
+123021706,macquarie fields,macquarie fields,South West,2564,70000000,0,0
+124031464,penrith,penrith,Western Suburbs,2750,75000000,0,0
+124051469,erskine park,erskine park,Western Suburbs,2759,85000000,0,0
+124051470,st clair,st clair,Western Suburbs,2759,77500000,0,0
+125011585,berala,berala,Western Suburbs,2141,105000000,0,0
+125011586,lidcombe,lidcombe,Western Suburbs,2141,125000000,2,8
+125011587,regents park,regents park,Western Suburbs,2143,95000000,0,0
+125041490,north rocks,north rocks,Hills Shire,2151,150000000,0,0
+125041491,northmead,northmead,Western Suburbs,2152,120000000,0,0
+125041494,winston hills,winston hills,Western Suburbs,2153,125000000,0,0
+126021590,putney,putney,North Shore,2112,255000000,4,4
+126021722,denistone,denistone,North Shore,2114,200000000,6,6
+126021723,eastwood,eastwood,North Shore,2122,195000000,2,6
+127011595,hinchinbrook,hinchinbrook,Western Suburbs,2168,84000000,0,0
+127011729,oran park,oran park,South West,2570,82000000,0,0
+127021515,fairfield,fairfield,Western Suburbs,2165,87500000,0,0
+127031522,casula,casula,Western Suburbs,2170,90000000,0,0
+127031601,warwick farm,warwick farm,Western Suburbs,2170,81000000,0,0
+127031730,edmondson park,edmondson park,South West,2174,90000000,0,0
+127031733,prestons,prestons,Western Suburbs,2170,85000000,0,0
+128011602,caringbah,caringbah,Sutherland Shire,2229,150000000,6,6
+128021607,engadine,engadine,Sutherland Shire,2233,110000000,4,6
+121021403,Asquith - Mount Colah,Asquith,Northern Suburbs,2077,140000000,0,0
+125011582,Auburn - Central,Auburn,Western Suburbs,2144,95000000,0,0
+122021420,Avalon - Palm Beach,Avalon,Northern Beaches,2107,225000000,0,0
+119011571,Bankstown - North,Bankstown,Western Suburbs,2200,105000000,3,7
+120031678,Burwood (NSW),Burwood,Inner West,2134,215000000,3,7
+115011291,Baulkham Hills (West) - Bella Vista,Bella Vista,Hills Shire,2153,200000000,0,0
+115011290,Baulkham Hills - East,Baulkham Hills,Hills Shire,2153,140000000,0,0
+119011354,Bass Hill - Georges Hall,Bass Hill,Western Suburbs,2197,90000000,0,0
+121021404,Berowra - Brooklyn - Cowan,Berowra,Northern Suburbs,2081,120000000,0,0
+119041669,Bexley - North,Bexley,Southern Suburbs,2207,140000000,4,5
+116031313,Bidwill - Hebersham - Emerton,Bidwill,Western Suburbs,2770,57500000,0,0
+116011303,Blacktown (East) - Kings Park,Kings Park,Western Suburbs,2148,86000000,0,0
+116011304,Blacktown (North) - Marayong,Marayong,Western Suburbs,2148,77500000,0,0
+116011560,Blacktown - South,Blacktown,Western Suburbs,2148,80000000,0,0
+118011340,Bondi Beach - North Bondi,Bondi,Eastern Suburbs,2026,300000000,0,0
+118011341,Bondi Junction - Waverly,Waverley,Eastern Suburbs,2024,310000000,0,0
+127021511,Cabramatta - Lansvale,Lansvale,Western Suburbs,2166,85000000,0,0
+127021512,Cabramatta West - Mount Pritchard,Cabramatta,Western Suburbs,2166,100000000,0,0
+123011433,Camden - Ellis Lane,Camden,South West,2570,80000000,0,0
+123021437,Campbelltown - Woodbine,Campbelltown,Western Suburbs,2560,65000000,0,0
+117031638,Camperdown - Darlington,Camperdown,Inner West,2050,180000000,3,5
+119021659,Campsie - North,Campsie,Western Suburbs,2194,140000000,2,7
+120031392,Canterbury (North) - Ashbury,Ashbury,Inner West,2193,175000000,0,0
+119021661,Canterbury - South,Canterbury,Western Suburbs,2193,150000000,4,6
+125021711,Carlingford - East,Carlingford,Western Suburbs,2118,160000000,4,3
+117021636,Marrickville - North,Marrickville,Inner West,2204,170000000,4,7
+125021712,Carlingford - West,Carlingford,Western Suburbs,2118,160000000,4,3
+115011553,Castle Hill - Central,Castle Hill,Hills Shire,2154,175000000,2,6
+121011683,Castle Cove - Northbridge,Castle Cove,Lower North Shore,2069,330000000,0,0
+121011399,Chatswood (West) - Lane Cove North,Chatswood,North Shore,2067,255000000,3,6
+127011726,Cobbitty - Bringelly,Cobbitty,South West,2570,82000000,0,0
+122031693,Collaroy - Collaroy Plateau,Collaroy,Northern Beaches,2097,300000000,0,0
+124051580,Colyton - Oxley Park,Colyton,Western Suburbs,2760,0,0,0
+120011672,Concord West - North Strathfield,Concord,Inner West,2137,220000000,6,5
+116011306,Doonside - Woodcroft,Doonside,Western Suburbs,2767,73000000,0,0
+117031330,Erskineville - Alexandria,Erskineville,Inner South,2043,165000000,3,7
+126011720,Epping (East) - North Epping,Epping,Northern Suburbs,2121,190000000,3,8
+126021498,Gladesville - Huntleys Point,Gladesville,North Shore,2111,230000000,4,5
+125031481,Granville - Clyde,Granville,Western Suburbs,2142,87500000,0,0
+119011655,Greenacre - North,Greenacre,Western Suburbs,2190,110000000,0,0
+125031483,Guildford - South Granville,Guildford,Western Suburbs,2161,90000000,0,0
+121021577,Hornsby - East,Hornsby,Upper North Shore,2077,140000000,4,6
+119031664,Hurstville - Central,Hurstville,Southern Suburbs,2220,160000000,3,7
+115011621,Kellyville - East,Kellyville,Hills Shire,2155,145000000,0,0
+116031317,Mount Druitt - Whalan,Mount Druitt,Western Suburbs,2770,77500000,0,0
+118021564,Kensington (NSW),Kensington,Eastern Suburbs,2033,300000000,5,7
+119021663,Kingsgrove - North,Kingsgrove,Southern Suburbs,2208,150000000,3,7
+127031731,Liverpool - East,Liverpool,Western Suburbs,2170,81000000,0,0
+118021569,Randwick - North,Randwick,Eastern Suburbs,2031,295000000,3,6
+125041588,Pendle Hill - Girraween,Pendle Hill,Western Suburbs,2145,98000000,0,0
+124041466,Richmond - Clarendon,Richmond,Northern Suburbs,2753,75000000,0,0
+126021724,Ryde - North,Ryde,Northern Suburbs,2112,175000000,3,6
+115041625,Rouse Hill - Beaumont Hills,Rouse Hill,Hills Shire,2155,115000000,3,4
+120031680,Strathfield - East,Strathfield,Inner West,2135,280000000,5,9
+117021328,Sydenham - Tempe - St Peters,Sydenham,Inner West,2044,160000000,0,0
+128011531,Sylvania - Taren Point,Sylvania,Sutherland Shire,2224,160000000,0,0
+116011627,Toongabbie - West,Toongabbie,Western Suburbs,2146,100000000,0,0
+125041589,Wentworthville - Westmead,Wentworthville,Western Suburbs,2145,115000000,4,6
+121021579,Wahroonga (West) - Waitara,Wahroonga,Upper North Shore,2076,230000000,5,6
+126021499,Hunters Hill - Woolwich,Hunters Hill,Lower North Shore,2110,350000000,0,0
+128021534,Illawong - Alfords Point,Illawong,Sutherland Shire,2234,150000000,0,0
+127011728,Leppington - Catherine Field,Leppington,South West,2179,85000000,0,0
+126021500,Macquarie Park - Marsfield,Macquarie Park,North Shore,2113,0,3,7
+122011419,Manly - Fairlight,Manly,Northern Beaches,2095,320000000,3,4
+118021652,Malabar - La Perouse,Malabar,Southern Suburbs,2036,235000000,0,0
